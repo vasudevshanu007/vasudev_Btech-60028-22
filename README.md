@@ -101,7 +101,7 @@ Frontend will run on: "http://localhost:3000"
 ## ⚙️ .env file
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/task_management_db
-JWT_SECRET=db0b9e70b7acaa171dad89fd2d12f8cfd01c3800b22d3b64f546bf3b1fed2bd2c48c350e4c650552f8e0aed0db45cc78fcd56cd1c4edcc06b774a7a52a083cb2
+JWT_SECRET=.........
 
 ## ⚙️ security
 
